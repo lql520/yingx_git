@@ -15,6 +15,11 @@ public class gITTest {
         System.out.println("======操作者A第二次修改测试类代码=======");
 
         int a = 100;
+
+        //dev
+        int b = 200;
+        int c = 300;
+
     }
 
 }
