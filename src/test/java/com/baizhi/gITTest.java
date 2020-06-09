@@ -12,7 +12,7 @@ public class gITTest {
     @Test
     public void contextLoads() {
 
-        System.out.println("======操作者A第一次修改测试类代码=======");
+        System.out.println("======操作者A第二次修改测试类代码=======");
     }
 
 }
