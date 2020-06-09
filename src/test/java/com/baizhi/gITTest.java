@@ -13,6 +13,8 @@ public class gITTest {
     public void contextLoads() {
 
         System.out.println("======操作者A第二次修改测试类代码=======");
+
+        int a = 100;
     }
 
 }
