@@ -12,6 +12,8 @@ public class YingxGitApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println("======操作者A第一次修改测试类代码=======");
+        
+        System.out.println("======操作者B第一次修改BigHub测试类代码=======");
     }
 
 }
