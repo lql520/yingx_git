@@ -6,4 +6,6 @@ public interface CategoryDao {
     Category login(String name);
 
     void delete(String id);
+
+    void deletes(String id);
 }
